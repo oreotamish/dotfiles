@@ -1,0 +1,8 @@
+*
+
+!wezterm*
+!nvim*
+!.gitignore
+
+!/wezterm/**
+!/nvim/**
