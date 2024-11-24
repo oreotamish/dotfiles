@@ -1,8 +1,12 @@
 *
 
+!starship*
+!tmux*
 !wezterm*
 !nvim*
 !.gitignore
 
+!/starship/**
+!/tmux/**
 !/wezterm/**
 !/nvim/**
