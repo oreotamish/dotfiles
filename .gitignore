@@ -4,9 +4,11 @@
 !tmux*
 !wezterm*
 !nvim*
+!ghostty*
 !.gitignore
 
 !/starship/**
 !/tmux/**
 !/wezterm/**
 !/nvim/**
+!/ghostty/**
